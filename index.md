@@ -2,14 +2,18 @@
 
 layout: col-sidebar
 title: OWASP Cuttack
-tags: example-tag
+tags: ctc
 level: 0
 
-region: Middle East
-
-auto-migrated: 1
+region: Asia
 
 ---
+
+# **Stay Updated**
+
+### Like OwaspCuttack for event updates and more on Facebook
+**[OWASP
+Cuttack Facebook Account](https://www.facebook.com/OwaspCuttack/)**
 
 
 <!-- Standard Chapter Page Template
