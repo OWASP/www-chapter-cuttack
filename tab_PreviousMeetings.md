@@ -1,5 +1,5 @@
 ---
-title: Archive
+title: Previous Meetings
 tab: true
 order: 2
 tags: ctc
