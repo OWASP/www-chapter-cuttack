@@ -1,8 +1,11 @@
 ---
-title: Previous Meetings
+
+title: PreviousMeetings
+displaytext: Previous Meetings
 tab: true
 order: 1
 tags: ctc
+
 ---
 
 # **Previous Meeting Venue and Dates**
