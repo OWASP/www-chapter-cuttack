@@ -1,8 +1,10 @@
 ---
+
 title: Leaders
 tab: true
 order: 1
 tags: ctc
+
 ---
 
 # **Committee Members**
