@@ -6,5 +6,8 @@
 "OWASP Cuttack Chapter")
 
 ### Social Links
-* [Meetup](#)
-* [Social Link](#)-->
+* [Facebook](https://www.facebook.com/OwaspCuttack/)
+
+### Become speaker
+
+* [Speaker Agreement](https://www.owasp.org/index.php/Speaker_Agreement)
