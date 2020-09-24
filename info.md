@@ -12,3 +12,9 @@
 ### Become speaker
 
 * [Speaker Agreement](https://www.owasp.org/index.php/Speaker_Agreement)
+
+
+### Sponser
+
+![OWASP Cuttack Chapter](Owasp_cuttack.png
+"OWASP Cuttack Chapter")
