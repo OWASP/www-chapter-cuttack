@@ -15,7 +15,7 @@ tags: ctc
     Mohanty](mailto:ankush.mohanty2011@gmail.com)
   - <b>Co-Chapter-Leader -</b> [Milan
     Sen](mailto:sen.milan@gmail.com)
-  - <b>Student-Chapter-Lead -<b> [Janmejaya Swain](mailto:janmejayaswain1999@gmail.com)
+  - <b>Student-Chapter-Lead -</b> [Janmejaya Swain](mailto:janmejayaswain1999@gmail.com)
 
 
 ### **<b>Board Of Advisors (BOA) </b>**
