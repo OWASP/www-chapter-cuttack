@@ -16,5 +16,4 @@
 
 ### Sponser
 
-![OWASP Cuttack Chapter](Owasp_cuttack.png
-"OWASP Cuttack Chapter")
+
