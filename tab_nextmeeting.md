@@ -1,5 +1,6 @@
 ---
 title: nextmeeting
+displaytext: Next Meeting
 tab: true
 order: 1
 tags: ctc
