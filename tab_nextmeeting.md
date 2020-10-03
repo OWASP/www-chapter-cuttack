@@ -1,5 +1,5 @@
 ---
-title: nextmeeting
+title: Next Meeting
 displaytext: Next Meeting
 tab: true
 order: 1
