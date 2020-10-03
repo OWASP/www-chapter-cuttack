@@ -15,7 +15,7 @@ Saturday 7:0 PM - 8:0 PM
 
 ### **Session**
 
-  7 PM: Account takeover for fun & profit[Mudassir Sharief](mailto:mudassirsharief58@gmail.com)
+  7 PM: Account takeover for fun & profit [Mudassir Sharief](mailto:mudassirsharief58@gmail.com)
 
 
 ### **Venue:**
