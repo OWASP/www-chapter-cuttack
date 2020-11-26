@@ -11,8 +11,7 @@ region: Asia
 # **Stay Updated**
 
 ### Like OwaspCuttack for event updates and more on Facebook
-**[OWASP
-Cuttack Facebook Account](https://www.facebook.com/OwaspCuttack/)**
+**[OWASPCuttack Facebook Account](https://www.facebook.com/OwaspCuttack/)**
 
 ## Welcome
 OWASP Cuttack Chapter was founded in the mid of 2016 by a group of security passionated youngsters to share the knowledge for cyber security, and spread cyber awareness, free of cost. Initially our intention was to create awareness about cybersecurity along with spreading the works of the community, but now we are organising meet ups and webinar on App Sec and IOT Sec.
