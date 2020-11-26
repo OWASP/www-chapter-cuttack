@@ -15,8 +15,6 @@ region: Asia
 **[OWASP
 Cuttack Facebook Account](https://www.facebook.com/OwaspCuttack/)**
 
-
-
 ## Welcome
 Include some information here about your chapter
 
