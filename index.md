@@ -23,5 +23,4 @@ To be a SPEAKER at any OWASP Chapter in the world simply review the speaker agre
 Everyone is welcome and encouraged to participate in our Projects, Local Chapters, Events. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
 
 ## Local News
-- [Meeting Location](https://owasp.org/www-chapter-cuttack/#div-nextmeeting)
-- Everyone is welcome to join us at our chapter meetings.
+- [Meeting Location&Details](https://owasp.org/www-chapter-cuttack/#div-nextmeeting)
