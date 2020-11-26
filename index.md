@@ -28,13 +28,3 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 ## Local News
 - [Meeting Location](https://owasp.org/www-chapter-cuttack/#div-nextmeeting)
 - Everyone is welcome to join us at our chapter meetings.
-
-{info.md}
-
-This separate file is where you should place links to your Google Group and Meetup page. It will be automatically rendered in the column sidebar.
-
-{leaders.md}
-
-Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
-
--->
