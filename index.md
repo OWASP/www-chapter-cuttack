@@ -13,7 +13,6 @@ region: Asia
 ### Like OwaspCuttack for event updates and more on Facebook
 **[OWASPCuttack Facebook Account](https://www.facebook.com/OwaspCuttack/)**
 
-{front matter for this file}
 
 ## Welcome
 OWASP Cuttack Chapter was founded in the mid of 2016 by a group of security passionated youngsters to share the knowledge for cyber security, and spread cyber awareness, free of cost. Initially our intention was to create awareness about cybersecurity along with spreading the works of the community, but now we are organising meet ups and webinar on App Sec and IOT Sec.
@@ -26,8 +25,3 @@ Everyone is welcome and encouraged to participate in our Projects, Local Chapter
 
 ## Local News
 - [Meeting Location&Details](https://owasp.org/www-chapter-cuttack/#div-nextmeeting)
-
-{info.md}
-This separate file is where you should place links to your Google Group and Meetup page. It will be automatically rendered in the column sidebar.
-{leaders.md}
-Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
