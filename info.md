@@ -1,7 +1,7 @@
 ## Chapter Information
 
 
-![OWASP Cuttack Chapter](Owasp_cuttack.png"OWASP Cuttack Chapter")
+![OWASP Cuttack Chapter](Owasp_cuttack.png  "OWASP Cuttack Chapter")
 
 ### Social Links
 
