@@ -1,8 +1,7 @@
 ## Chapter Information
 
 
-![OWASP Cuttack Chapter](Owasp_cuttack.png
-"OWASP Cuttack Chapter")
+![OWASP Cuttack Chapter](Owasp_cuttack.png"OWASP Cuttack Chapter")
 
 ### Social Links
 
@@ -14,7 +13,4 @@
 
 * [Speaker Agreement](https://www.owasp.org/www-policy/speaker-agreement)
 
-
 ### Sponser
-
-
