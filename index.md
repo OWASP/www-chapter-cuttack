@@ -5,6 +5,8 @@ title: OWASP Cuttack
 tags: ctc
 level: 0
 region: Asia
+meetup-group: 
+alt-event-platform: Facebook
 
 ---
 
