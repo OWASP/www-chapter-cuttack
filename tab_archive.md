@@ -126,3 +126,50 @@ Hands on with OWASP ZAP(Swiss Army knife)By - [Ankush Mohanty](mailto:ankush.moh
 * Secure Deployment
 * OWASP ZAP 2.8 Features & Hands On
 * Q&A
+
+
+## 03<sup>rd</sup> October 2020 
+### Session 
+
+
+Hands on : Account takeover for fun & profit [Mudassir Sharief](mailto:mudassirsharief58@gmail.com)
+
+* Account take over using Burp with regex value
+
+
+## 17<sup>rd</sup> May 2021 
+### Session 
+
+
+Python3 For Application Security [Shamsher Khan](shamsher.khan.7362@gmail.com)
+
+* Intro To Socket Progamming(P-1)
+
+
+## 19<sup>rd</sup> May 2021 
+### Session 
+
+
+Python3 For Application Security [Shamsher Khan](shamsher.khan.7362@gmail.com)
+
+* Ports and Vulnerability Scanner(P-2)
+
+
+
+
+## 22<sup>rd</sup> May 2021 
+### Session 
+
+
+Python3 For Application Security [Shamsher Khan](shamsher.khan.7362@gmail.com)
+
+* Ports & Vulnerability Scanner(P-3)
+
+
+## 26<sup>rd</sup> May 2021 
+### Session 
+
+
+Python3 For Application Security [Shamsher Khan](shamsher.khan.7362@gmail.com)
+
+* Ports & Vulnerability Scanner (P-4)
