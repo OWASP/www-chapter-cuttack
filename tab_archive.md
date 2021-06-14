@@ -137,7 +137,7 @@ Hands on : Account takeover for fun & profit [Mudassir Sharief](mailto:mudassirs
 * Account take over using Burp with regex value
 
 
-## 17<sup>rd</sup> May 2021 
+## 17<sup>th</sup> May 2021 
 ### Session 
 
 
@@ -146,7 +146,7 @@ Python3 For Application Security [Shamsher Khan](shamsher.khan.7362@gmail.com)
 * Intro To Socket Progamming(P-1)
 
 
-## 19<sup>rd</sup> May 2021 
+## 19<sup>th</sup> May 2021 
 ### Session 
 
 
@@ -157,7 +157,7 @@ Python3 For Application Security [Shamsher Khan](shamsher.khan.7362@gmail.com)
 
 
 
-## 22<sup>rd</sup> May 2021 
+## 22<sup>nd</sup> May 2021 
 ### Session 
 
 
@@ -166,7 +166,7 @@ Python3 For Application Security [Shamsher Khan](shamsher.khan.7362@gmail.com)
 * Ports & Vulnerability Scanner(P-3)
 
 
-## 26<sup>rd</sup> May 2021 
+## 26<sup>th</sup> May 2021 
 ### Session 
 
 
