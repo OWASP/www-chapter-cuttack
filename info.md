@@ -5,7 +5,7 @@
 
 ### Social Links
 
-* [Meetup](https://www.meetup.com/OWASP-Cuttack-Meetup-Group/)
+* [Meetup](https://www.meetup.com/owasp-cuttack-chapter//)
 * [Facebook](https://www.facebook.com/OwaspCuttack/)
 * [YouTube](https://www.youtube.com/channel/UCuFRwEdUG2SBeiA9_je66lw/)
 
