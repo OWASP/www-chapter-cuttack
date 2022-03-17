@@ -5,20 +5,18 @@ title: OWASP Cuttack
 tags: ctc
 level: 0
 region: Asia
-meetup-group: OWASP-Cuttack-Meetup-Group
+meetup-group: owasp-cuttack-chapter
 
 ---
 
 ### Upcoming Meetings
 
-We schedule our meetings on the [Cuttack Meetup Group](https://www.meetup.com/OWASP-Cuttack-Meetup-Group/)
+We schedule our meetings on the [Cuttack Meetup Group](https://www.meetup.com/owasp-cuttack-chapter/)
 
 {% include chapter_events.html group=page.meetup-group %}
 
 Our meetings are open to the public, and you do not need to be a member to attend. Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
 
-### Like OwaspCuttack for event updates and more on Facebook
-**[OWASPCuttack Facebook Account](https://www.facebook.com/OwaspCuttack/)**
 
 #### We are speaking "Mobile Application Security with OWASP ZAP" at ZAPCon on 9th of March 2021..
 **Register to attend [https://zapcon.io/](https://zapcon.io/)**
